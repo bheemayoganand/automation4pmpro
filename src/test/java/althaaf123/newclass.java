@@ -2,9 +2,9 @@ package althaaf123;
 
 public class newclass {
 	
-	public void testmethod()
+	public void testmethod1()
 	{
-			System.out.println("Method");
+			System.out.println("Method1");
 	}
 
 }
